@@ -1,0 +1,20 @@
+{
+    "battle": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "unknown"
+    },
+    "joiner": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "unknown"
+    },
+    "participantIds": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "enum"
+    }
+}
