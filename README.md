@@ -1,7 +1,7 @@
 # install python
 To run the application you need to install python 3x
 
-# no de'pendencey need
+# no dependency needed
 you don't need to install any liberies as python already have the two modules we need to run the application
 
 # run app
